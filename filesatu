@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Belajar Git - diubah sikit</title>
+    </head>
+    <body>
+        <p>Hello Semua, Saya sedang belajar Git</p>
+        <p>ini penambahan GIT</p>
+    </body>
+</html>
